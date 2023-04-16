@@ -1,0 +1,11 @@
+C:\Users\bruno.amorim\Documents\GitHub\APIs\CrudRust\target\debug\deps\getrandom-ea47005701ee12c3.rmeta: C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\lib.rs C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\error.rs C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\util.rs C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\error_impls.rs C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\windows.rs
+
+C:\Users\bruno.amorim\Documents\GitHub\APIs\CrudRust\target\debug\deps\libgetrandom-ea47005701ee12c3.rlib: C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\lib.rs C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\error.rs C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\util.rs C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\error_impls.rs C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\windows.rs
+
+C:\Users\bruno.amorim\Documents\GitHub\APIs\CrudRust\target\debug\deps\getrandom-ea47005701ee12c3.d: C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\lib.rs C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\error.rs C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\util.rs C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\error_impls.rs C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\windows.rs
+
+C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\lib.rs:
+C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\error.rs:
+C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\util.rs:
+C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\error_impls.rs:
+C:\Users\bruno.amorim\.cargo\registry\src\github.com-1ecc6299db9ec823\getrandom-0.2.9\src\windows.rs:

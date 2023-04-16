@@ -1,0 +1,1 @@
+C:\Users\bruno.amorim\Documents\GitHub\APIs\CrudRust\target\debug\CrudRust.exe: C:\Users\bruno.amorim\Documents\GitHub\APIs\CrudRust\src\db.rs C:\Users\bruno.amorim\Documents\GitHub\APIs\CrudRust\src\main.rs

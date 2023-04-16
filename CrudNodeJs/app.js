@@ -1,6 +1,13 @@
 const express = require('express');
 const fs = require('fs');
 const app = express();
+const cors = require('cors');
+
+app.use(cors({
+  origin: '*',
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization']
+}));
 
 app.use(express.json());
 
@@ -69,6 +76,17 @@ app.delete('/users/:id', (req, res) => {
     res.json({ message: 'Usuário deletado com sucesso.' });
   } else {
     res.status(404).json({ message: 'Usuário não encontrado.' });
+  }
+});
+
+app.post('/login', (req, res) => {
+  const { user, password } = req.body;
+  const database = readDatabase();
+  const foundUser = database.users.find(u => u.user === user && u.password === password);
+  if (foundUser) {
+    res.json({ message: 'Login bem-sucedido.' });
+  } else {
+    res.status(401).json({ message: 'Usuário ou senha inválidos.' });
   }
 });
 
